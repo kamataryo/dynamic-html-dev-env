@@ -1,0 +1,4 @@
+export BASIC_AUTH_USER=gutenberg
+export BASIC_AUTH_PASS=password
+export DOWNLOAD_HOST=example.com
+export DOWNLOAD_DIR=/wp-content/themes/theme_name
